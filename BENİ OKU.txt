@@ -1,9 +1,0 @@
-Merhabalar, bu program ARI BİLİŞİM tarafından yazılmıştır. Kullanıcı adı ve şifresine admin ve ttnet yazmayınız. Bu kullanıcı adı ve şifresi admin veya ttnet değildir. 
-
-
-NASIL KULLANILIR?
-İnternet servis sağlayıcısından aldığınız kullanıcı adı ve şifreyi, bu alana giriniz ve Kur tuşuna basınız. Gerisini program halledecektir. Eğer bir sorun olursa, modemle birlikte yolladığımız kurulum rehberi dökümanını inceleyiniz. 0546 542 57 19 numaralı hattımızdan da bizi arayabilirsiniz.
-
-Bu kullanıcı adı ve şifresini öğrenmek için servis sağlayıcınızın müşteri hizmetleriyle görüşmelisiniz. Türktelekom için bu 444 03 75 tir. Telesekreterde, teknik destek almak istiyorum olan numaraya, ardından internet kullanıcı adı ve şifremi almak istiyorum olan numaraya tıklarsanız kullanıcı adı ve şifreniz hat sahibinin telefonuna SMS olarak yollanmaktadır. 
-
-Türknet için ise, online işlem merkezinde bu yazmaktadır. Diğer servis sağlayıcılar için kendi müşteri hizmetleriyle görüşebilirsiniz.
