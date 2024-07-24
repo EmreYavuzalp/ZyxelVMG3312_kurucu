@@ -195,7 +195,7 @@ warning_text2 = (
     
 # Create the main window
 master = tk.Tk()
-master.title('Zyxel VMG3312-B10B Kurulum Programı v1.0')
+master.title('Zyxel VMG3312-B10B Kurulum Programi v1.0')
 
 # Create and place username label and entry
 tk.Label(master, text="Username").grid(row=0, column=0, pady=2)
