@@ -3,6 +3,7 @@ Bu program Türktelekom yazılımlı Zyxel VMG3312-B10B model modemlerin kurulum
 ÖNEMLİ NOT: Türktelekom kullanıyorsanız, kullanıcı adının sonuna "@ttnet" ekleyiniz.
 
 OLMASI GEREKENLER:
+
 -Windows 10 yüklü bir PC
 
 -Google Chrome (güncel sürüm, en azından 126.0)
